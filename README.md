@@ -1,4 +1,4 @@
-# FT_PUTCHAR Function
+# ft_putchar
 
 Welcome to the `FT_PUTCHAR` repository! This simple, yet powerful, C function is designed to output a single character to the standard output, showcasing the elegance and efficiency of C programming for beginners and experienced developers alike.
 
