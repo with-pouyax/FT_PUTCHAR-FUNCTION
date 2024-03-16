@@ -5,11 +5,3 @@ Welcome to the `FT_PUTCHAR` repository! This simple, yet powerful, C function is
 ## 🚀 Description
 
 The `ft_putchar` function takes a single character as an argument and writes it to the standard output. It's a fundamental building block for many C projects, allowing developers to handle character-level output operations with ease.
-
-```c
-#include <unistd.h>
-
-void    ft_putchar(char c)
-{
-    write(1, &c, 1);
-}
